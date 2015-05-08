@@ -1,0 +1,13 @@
+github for world maps:
+  https://github.com/mledoze/countries
+
+Fusion tables:
+  https://www.google.com/fusiontables/DataSource?docid=1ksBc_-cWnek37HFTMr0FXfBtOETBeYYbB1YeSg
+
+ISO codes:
+  http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+  http://en.wikipedia.org/wiki/ISO_3166-1_alpha-3
+
+EU history (detailed):
+  http://europa.eu/about-eu/eu-history
+  http://en.wikipedia.org/wiki/History_of_the_European_Union

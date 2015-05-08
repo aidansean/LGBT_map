@@ -1,0 +1,225 @@
+<xml title="EU membership" start_index="0">
+  <statuses>
+    <status type="found"    fillColor="rgb(  0,  0, 50)" strokeColor="rgb(  0,  0, 50)" fillOpacity="0.5" strokeOpacity="1.0" strokeWeight="2" description="Founding members of the EU"/>
+    <status type="apply"    fillColor="rgb(100,100,  0)" strokeColor="rgb(100,100,  0)" fillOpacity="0.5" strokeOpacity="1.0" strokeWeight="1" description="Applies for EU membership"/>
+    <status type="join"     fillColor="rgb(  0,  0,150)" strokeColor="rgb(  0,  0,150)" fillOpacity="0.5" strokeOpacity="1.0" strokeWeight="2" description="Joins EU"/>
+    <status type="veto"     fillColor="rgb(100,  0,  0)" strokeColor="rgb(100,  0,  0)" fillOpacity="0.5" strokeOpacity="1.0" strokeWeight="1" description="Application vetoed"/>
+    <status type="withdraw" fillColor="rgb(100,  0,150)" strokeColor="rgb(100,  0,150)" fillOpacity="0.5" strokeOpacity="1.0" strokeWeight="1" description="Applciation withdrawn"/>
+    <status type="freeze"   fillColor="rgb(  0,200,200)" strokeColor="rgb(  0,200,200)" fillOpacity="0.5" strokeOpacity="1.0" strokeWeight="1" description="Application frozen"/>
+    <status type="leave"    fillColor="rgb(  0,  0,200)" strokeColor="rgb(  0,  0,200)" fillOpacity="0.5" strokeOpacity="1.0" strokeWeight="1" description="Leaves EU"/>
+    <status type="eurozone" fillColor="rgb(  0,  0,137)" strokeColor="rgb(  0,  0,137)" fillOpacity="0.3" strokeOpacity="1.0" strokeWeight="1" description="Joins Eurozone"/>
+  </statuses>
+  <acts>
+    <act date="1958/01/01" status="found">
+      <nation code="BE"/>
+      <nation code="DE"/>
+      <nation code="FR"/>
+      <nation code="IT"/>
+      <nation code="LU"/>
+      <nation code="NL"/>
+    </act>
+    <act date="1961/07/31" status="apply">
+      <nation code="IE"/>
+    </act>
+    <act date="1961/08/10" status="apply">
+      <nation code="DK"/>
+      <nation code="GB_EW"/>
+      <nation code="GB_SC"/>
+      <nation code="GB_NI"/>
+    </act>
+    <act date="1962/04/30" status="apply">
+      <nation code="NO"/>
+    </act>
+    <act date="1963/01/14" status="veto">
+      <nation code="GB_EW"/>
+      <nation code="GB_SC"/>
+      <nation code="GB_NI"/>
+    </act>
+    <act date="1963/01/15" status="withdraw">
+      <nation code="DK"/>
+      <nation code="IE"/>
+      <nation code="NO"/>
+    </act>
+    <act date="1967/05/11" status="apply">
+      <nation code="DK"/>
+      <nation code="GB_EW"/>
+      <nation code="GB_SC"/>
+      <nation code="GB_NI"/>
+      <nation code="IE"/>
+    </act>
+    <act date="1967/05/12" status="apply">
+      <nation code="NO"/>
+    </act>
+    <act date="1972/10/09" status="withdraw">
+      <nation code="NO"/>
+    </act>
+    <act date="1973/01/01" status="join">
+      <nation code="DK"/>
+      <nation code="GB_EW"/>
+      <nation code="GB_SC"/>
+      <nation code="GB_NI"/>
+      <nation code="IE"/>
+    </act>
+    <act date="1975/06/12" status="apply">
+      <nation code="GR"/>
+    </act>
+    <act date="1981/01/01" status="join">
+      <nation code="GR"/>
+    </act>
+    <act date="1977/03/28" status="apply">
+      <nation code="PT"/>
+    </act>
+    <act date="1977/07/28" status="apply">
+      <nation code="ES"/>
+    </act>
+    <act date="1986/01/01" status="join">
+      <nation code="ES"/>
+      <nation code="PT"/>
+    </act>
+    <act date="1987/04/14" status="apply">
+      <nation code="TR"/>
+    </act>
+    <act date="1989/07/17" status="apply">
+      <nation code="AT"/>
+    </act>
+    <act date="1990/07/03" status="apply">
+      <nation code="CY"/>
+    </act>
+    <act date="1990/07/16" status="apply">
+      <nation code="MT"/>
+    </act>
+    <act date="1991/07/01" status="apply">
+      <nation code="SE"/>
+    </act>
+    <act date="1992/03/19" status="apply">
+      <nation code="FI"/>
+    </act>
+    <act date="1992/05/20" status="apply">
+      <nation code="CH"/>
+    </act>
+    <act date="1992/11/25" status="apply">
+      <nation code="NO"/>
+    </act>
+    <act date="1992/12/06" status="freeze">
+      <nation code="CH"/>
+    </act>
+    <act date="1994/03/31" status="apply">
+      <nation code="HU"/>
+    </act>
+    <act date="1994/04/05" status="apply">
+      <nation code="PL"/>
+    </act>
+    <act date="1994/11/28" status="withdraw">
+      <nation code="NO"/>
+    </act>
+    <act date="1995/01/01" status="join">
+      <nation code="AT"/>
+      <nation code="FI"/>
+      <nation code="SE"/>
+    </act>
+    <act date="1995/06/22" status="apply">
+      <nation code="RO"/>
+    </act>
+    <act date="1995/06/27" status="apply">
+      <nation code="SK"/>
+    </act>
+    <act date="1995/10/13" status="apply">
+      <nation code="LV"/>
+    </act>
+    <act date="1995/11/24" status="apply">
+      <nation code="EE"/>
+    </act>
+    <act date="1995/12/08" status="apply">
+      <nation code="LT"/>
+    </act>
+    <act date="1995/12/14" status="apply">
+      <nation code="BG"/>
+    </act>
+    <act date="1996/01/17" status="apply">
+      <nation code="CZ"/>
+    </act>
+    <act date="1996/06/10" status="apply">
+      <nation code="SI"/>
+    </act>
+    <act date="1996/10/26" status="freeze">
+      <nation code="MT"/>
+    </act>
+    <act date="1998/09/05" status="apply">
+      <nation code="MT"/>
+    </act>
+    <act date="1999/01/01" status="eurozone">
+      <nation code="AT"/>
+      <nation code="BE"/>
+      <nation code="FI"/>
+      <nation code="FR"/>
+      <nation code="DE"/>
+      <nation code="IE"/>
+      <nation code="IT"/>
+      <nation code="LU"/>
+      <nation code="NL"/>
+      <nation code="PT"/>
+      <nation code="ES"/>
+    </act>
+    <act date="2001/01/01" status="eurozone">
+      <nation code="GR"/>
+    </act>
+    <act date="2004/06/17" status="apply">
+      <nation code="HR"/>
+    </act>
+    <act date="2004/09/14" status="apply">
+      <nation code="MK"/>
+    </act>
+    <act date="2004/05/01" status="join">
+      <nation code="CY"/>
+      <nation code="CZ"/>
+      <nation code="EE"/>
+      <nation code="HU"/>
+      <nation code="LT"/>
+      <nation code="LV"/>
+      <nation code="MT"/>
+      <nation code="PL"/>
+      <nation code="SI"/>
+      <nation code="SK"/>
+    </act>
+    <act date="2007/01/01" status="eurozone">
+      <nation code="SI"/>
+    </act>
+    <act date="2007/01/01" status="join">
+      <nation code="BG"/>
+      <nation code="RO"/>
+    </act>
+    <act date="2008/01/01" status="eurozone">
+      <nation code="CY"/>
+      <nation code="MT"/>
+    </act>
+    <act date="2008/04/15" status="apply">
+      <nation code="ME"/>
+    </act>
+    <act date="2009/01/01" status="eurozone">
+      <nation code="SK"/>
+    </act>
+    <act date="2009/04/28" status="apply">
+      <nation code="AL"/>
+    </act>
+    <act date="2009/07/23" status="apply">
+      <nation code="IS"/>
+    </act>
+    <act date="2009/12/22" status="apply">
+      <nation code="IS"/>
+    </act>
+    <act date="2011/01/01" status="eurozone">
+      <nation code="EE"/>
+    </act>
+    <act date="2013/01/01" status="join">
+      <nation code="HR"/>
+    </act>
+    <act date="2014/01/01" status="eurozone">
+      <nation code="LV"/>
+    </act>
+    <act date="2014/02/22" status="withdraw">
+      <nation code="IS"/>
+    </act>
+  </acts>
+</xml>
+
+

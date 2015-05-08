@@ -1,0 +1,151 @@
+<xml title="Same sex marriage" start_index="-1">
+  <statuses>
+    <status type="marriage"   fillColor="rgb(255,  0,255)" strokeColor="rgb(100,  0,100)" fillOpacity="0.5" strokeOpacity="1.0" strokeWeight="2" description="Same sex marriage legalised"/>
+    <status type="civilUnion" fillColor="rgb(100,  0,255)" strokeColor="rgb( 50,  0,100)" fillOpacity="0.5" strokeOpacity="1.0" strokeWeight="2" description="Civil union legalised"/>
+    <status type="banned"     fillColor="rgb(255,  0,  0)" strokeColor="rgb(100,  0,  0)" fillOpacity="0.5" strokeOpacity="1.0" strokeWeight="3" description="Same sex marriage constitutionally banned"/>
+  </statuses>
+  <acts>
+    <act date="2010/01/01" status="civilUnion">
+      <nation code="AT"/>
+    </act>
+    <act date="2014/01/01" status="civilUnion">
+      <nation code="HR"/>
+    </act>
+    <act date="2013/01/01" status="banned">
+      <nation code="HR"/>
+    </act>
+    <act date="2006/01/01" status="civilUnion">
+      <nation code="CZ"/>
+    </act>
+    <act date="2001/01/01" status="civilUnion">
+      <nation code="DE"/>
+    </act>
+    <act date="2009/01/01" status="civilUnion">
+      <nation code="HU"/>
+    </act>
+    <act date="2011/01/01" status="civilUnion">
+      <nation code="LI"/>
+    </act>
+    <act date="1997/01/01" status="banned">
+      <nation code="PL"/>
+    </act>
+    <act date="2014/01/01" status="banned">
+      <nation code="SK"/>
+    </act>
+    <act date="2006/01/01" status="civilUnion">
+      <nation code="SI"/>
+    </act>
+    <act date="2007/01/01" status="civilUnion">
+      <nation code="CH"/>
+    </act>
+    <act date="1994/01/01" status="banned">
+      <nation code="BY"/>
+    </act>
+    <act date="1994/01/01" status="banned">
+      <nation code="MD"/>
+    </act>
+    <act date="1996/01/01" status="banned">
+      <nation code="UA"/>
+    </act>
+    <act date="1989/01/01" status="civilUnion">
+      <nation code="DK"/>
+    </act>
+    <act date="2012/01/01" status="marriage">
+      <nation code="DK"/>
+    </act>
+    <act date="2002/01/01" status="civilUnion">
+      <nation code="FI"/>
+    </act>
+    <act date="1996/01/01" status="civilUnion">
+      <nation code="IS"/>
+    </act>
+    <act date="2010/01/01" status="marriage">
+      <nation code="IS"/>
+    </act>
+    <act date="2006/01/01" status="banned">
+      <nation code="LV"/>
+    </act>
+    <act date="1992/01/01" status="banned">
+      <nation code="LT"/>
+    </act>
+    <act date="1993/01/01" status="civilUnion">
+      <nation code="NO"/>
+    </act>
+    <act date="2009/01/01" status="marriage">
+      <nation code="NO"/>
+    </act>
+    <act date="1995/01/01" status="civilUnion">
+      <nation code="SE"/>
+    </act>
+    <act date="2009/01/01" status="marriage">
+      <nation code="SE"/>
+    </act>
+    <act date="2005/01/01" status="civilUnion">
+      <nation code="AD"/>
+    </act>
+    <act date="1991/01/01" status="banned">
+      <nation code="BG"/>
+    </act>
+    <act date="2007/01/01" status="banned">
+      <nation code="ME"/>
+    </act>
+    <act date="2014/01/01" status="civilUnion">
+      <nation code="MT"/>
+    </act>
+    <act date="2001/01/01" status="civilUnion">
+      <nation code="PT"/>
+    </act>
+    <act date="2010/01/01" status="marriage">
+      <nation code="PT"/>
+    </act>
+    <act date="2006/01/01" status="banned">
+      <nation code="RS"/>
+    </act>
+    <act date="2004/01/01" status="civilUnion">
+      <nation code="ES"/>
+    </act>
+    <act date="2005/01/01" status="marriage">
+      <nation code="ES"/>
+    </act>
+    <act date="2000/01/01" status="civilUnion">
+      <nation code="BE"/>
+    </act>
+    <act date="2003/01/01" status="marriage">
+      <nation code="BE"/>
+    </act>
+    <act date="1999/01/01" status="civilUnion">
+      <nation code="FR"/>
+    </act>
+    <act date="2013/01/01" status="marriage">
+      <nation code="FR"/>
+    </act>
+    <act date="2011/01/01" status="civilUnion">
+      <nation code="IE"/>
+    </act>
+    <act date="2004/01/01" status="civilUnion">
+      <nation code="LU"/>
+    </act>
+    <act date="1998/01/01" status="civilUnion">
+      <nation code="NL"/>
+    </act>
+    <act date="2001/01/01" status="marriage">
+      <nation code="NL"/>
+    </act>
+    <act date="2005/01/01" status="civilUnion">
+      <nation code="GB_EW"/>
+      <nation code="GB_SC"/>
+      <nation code="GB_NI"/>
+    </act>
+    <act date="2014/01/01" status="marriage">
+      <nation code="GB_EW"/>
+    </act>
+    <act date="2014/01/01" status="marriage">
+      <nation code="GB_SC"/>
+    </act>
+    <act date="2014/01/01" status="civilUnion">
+      <nation code="GB_NI"/>
+    </act>
+  </acts>
+</xml>
+
+

@@ -1,0 +1,29 @@
+<xml title="Same sex marriage" start_index="-1">
+  <statuses>
+    <status type="marriage"   fillColor="rgb(255,  0,255)" strokeColor="rgb(100,  0,100)" fillOpacity="0.5" strokeOpacity="1.0" strokeWeight="2" description="Same sex marriage legalised"/>
+    <status type="civilUnion" fillColor="rgb(100,  0,255)" strokeColor="rgb( 50,  0,100)" fillOpacity="0.5" strokeOpacity="1.0" strokeWeight="2" description="Civil union legalised"/>
+    <status type="banned"     fillColor="rgb(255,  0,  0)" strokeColor="rgb(100,  0,  0)" fillOpacity="0.5" strokeOpacity="1.0" strokeWeight="3" description="Same sex marriage constitutionally banned"/>
+  </statuses>
+  <acts>
+    <act date="2010/01/01" status="marriage">
+      <nation code="AT"/>
+    </act>
+    <act date="2014/01/01" status="marriage">
+      <nation code="HR"/>
+    </act>
+    <act date="2013/01/01" status="banned">
+      <nation code="HR"/>
+    </act>
+    <act date="2006/01/01" status="civilUnion">
+      <nation code="CZ"/>
+    </act>
+    <act date="2001/01/01" status="civilUnion">
+      <nation code="DE"/>
+    </act>
+
+    </act>
+
+  </acts>
+</xml>
+
+

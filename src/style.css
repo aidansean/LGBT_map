@@ -1,0 +1,50 @@
+#div_map{
+  width  : 750px ;
+  height : 600px ;
+  border : 1px solid black ;
+}
+table#table_notes{
+  width : 754px ;
+  margin : auto ;
+  margin-bottom : 20px ;
+}
+th#th_date, th#th_nations, th#th_action{
+  width : 25% ;
+  color : #ffffff ;
+  background : #000000 ;
+}
+td#td_date, td#td_nations, td#td_action{
+  width : 75% ;
+  text-align : left ;
+  color : #000000 ;
+  background : #ffffff ;
+}
+th#th_date, th#th_nations, th#th_action, td#td_date, td#td_nations, td#td_action{
+  font-size : 14pt ;
+  padding : 0.25em ;
+}
+
+input#submit_prev, input#submit_play, input#submit_next{
+  width : 225px ;
+  height : 50px ;
+  font-size : 20px ;
+}
+div.center{
+  margin-bottom : 10px ;
+}
+table.key{
+  width : 754px ;
+  margin : auto ;
+  background : #ffffff ;
+}
+th.key_color, th.key_meaning{
+  color : #ffffff ;
+  background : #000000 ;
+}
+th.key_color, th.key_meaning, td.key_color, td.key_meaning{
+  text-align : center ;
+  font-size : 14pt ;
+}
+td.key_meaning{
+  background : #ffffff ;
+}
