@@ -1,12 +1,15 @@
 from project_module import project_object, image_object, link_object, challenge_object
 
-p = project_object('LGBT_map', 'LGBT map')
+p = project_object('LGBT_maps', 'LGBT map')
 p.domain = 'http://www.aidansean.com/'
-p.path = 'LGBT_map'
-p.preview_image_ = image_object('http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg', 408, 287)
+p.path = 'LGBT_maps'
+p.preview_image    = image_object('%s/images/project.jpg'   %p.path, 150, 250)
+p.preview_image_bw = image_object('%s/images/project_bw.jpg'%p.path, 150, 250)
 p.folder_name = 'aidansean'
-p.github_repo_name = 'LGBT_map'
+p.github_repo_name = 'LGBT_maps'
 p.mathjax = True
+p.tags = 'LGBT,Tools'
+p.technologies = 'canvas,CSS,HTML,GoogleMaps,JavaScript,XML'
 p.links.append(link_object(p.domain, 'LGBT_map', 'Live page (Google Maps)'))
 p.links.append(link_object(p.domain, 'LGBT_map', 'Live page (Colourblind safe)'))
 p.introduction = 'One of my more far reaching projects is the LGBT CERN group. It is a diverse group with people from across the world, and one of the issues that we care about is safety in different nations.  This project keeps track of progress in different nations.'

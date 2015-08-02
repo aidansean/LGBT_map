@@ -15,7 +15,7 @@ include($_SERVER['FILE_PREFIX'] . '/_core/preamble.php') ;
 ?>
   <div class="right">
     <div class="blurb center">
-      <p>This page has a map of Europe showing the legal recognition of same sex unions and marriage my nation.</p>
+      <p>This page has a map of Europe showing the legal recognition of same sex unions and marriage by nation.</p>
       <div class="center">
         <input type="submit" id="submit_prev" value="Back"/>
         <input type="submit" id="submit_play" value="Play"/>

@@ -6,7 +6,7 @@ One of my more far reaching projects is the LGBT CERN group. It is a diverse gro
 
 <a href="http://www.aidansean.com/LGBT_map">Live page (Google Maps)</a>
 <a href="http://www.aidansean.com/LGBT_map">Live page (Colourblind safe)</a>
-<a href="https://github.com/aidansean/LGBT_map">GitHub repository</a>
+<a href="https://github.com/aidansean/LGBT_maps">GitHub repository</a>
 
 <h3>Overview</h3>
 
